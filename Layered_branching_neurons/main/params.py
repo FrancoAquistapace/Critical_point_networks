@@ -1,0 +1,10 @@
+# Screen and system params
+WRITE = False
+SCREEN_SIZE = 750
+SIZE = 80
+SPACING = SCREEN_SIZE / SIZE
+STEPS = 160000
+# Neuron params
+N_NEIGH = 4
+SIGMA = 1
+TOP_ACTIVATION = 1
